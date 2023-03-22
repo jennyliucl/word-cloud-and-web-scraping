@@ -1,5 +1,5 @@
-# web-scraping-and-word-cloud
-Text mining on [Taiwan FactCheck Center](https://tfc-taiwan.org.tw)'s articles.
+# word-cloud-and-web-scraping
+High-frequency words of the information that [Taiwan FactCheck Foundation](https://tfc-taiwan.org.tw) verifies.
 
 **從今開始拒絕當魚！—文字探勘之網路真偽訊息分析**
 
